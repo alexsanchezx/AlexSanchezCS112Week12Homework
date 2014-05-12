@@ -15,3 +15,8 @@ public class TripleDice extends dice
 		return value;
 	}	
 }
+
+// what does the value parameter do, Ales?
+//public TripleDice(int Bounces, int Value)
+	
+		
